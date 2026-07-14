@@ -1,0 +1,150 @@
+@charset "utf-8";
+
+body{
+    background-color: #ffffff;
+    color: #6232b5;
+    font-family: "メイリオ", "Hiragino Sans", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    font-size: 90%;
+    line-height: 1.8;
+}
+
+h1{
+    color:#fff;
+	background: linear-gradient(to left,#ffffff, #a578e8);
+}
+
+footer{
+    background-color: #c0c0c0;
+}
+
+.subhead{
+    background-color: #808000;
+}
+
+footer{
+    background-color: #c0c0c0;
+}
+
+.subhead{
+    background-color: #808000;
+}
+
+.navy{
+    color: #800071;
+}
+
+.red{
+    color: #ff0000;
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 0;
+    font-size: 90%;
+    line-height: 1.8;
+}
+
+li{
+    list-style-type: none;
+    padding-left: 0;
+    font-size: 90%;
+    line-height: 1.8;
+}
+
+ul time{
+    background-color: #999999;
+    color: #ffffff;
+    border-radius: 10px;
+    font-size: 90%;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-right: 5px;
+}
+
+nav ul{
+    list-style: none;
+    padding: 0;
+    font-weight: bold;
+    text-align: right;
+    padding-top: 26px;
+    padding-bottom: 5px;
+    margin: 0;
+}
+
+nav li{
+    display: inline-block;
+    margin: 0 15px;
+}
+
+article{
+    position: relative;
+    clear: both;
+}
+
+header img{
+    float: left;
+}
+
+li{
+    border: 1px solid rgb(25, 243, 221);
+}
+.sub-h1{
+	border: 1px solid rgb(217, 0, 255);
+	background: linear-gradient(to left,#ffffff, #a578e8);
+	padding-top: 5px;
+	padding-left: 10px;
+	border-left: 15px solid #003366;
+}
+.point-list{
+    list-style-image:url(../image/list.heart.jpg);
+    font-weight:bold;
+    margin-left: 30px;
+}
+.point-img{
+    box-shadow: 0px 0px 10px 3px #aaaaaa;
+    border-radius: 10px;
+}
+ol li{
+    display: inline;
+    margin-right: 5px;
+    font-size: 80%;
+}
+ol{
+    padding-left: 0;
+}
+
+.point-img{
+    float: none;
+}
+
+nav ul a{
+    text-decoration:none;
+    color: #68b7f7;
+}
+nav ul a:hover{
+    color:#feade9;
+}
+table{
+    border:1px solid #f19edf;
+    font-size:90%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:20px;
+}
+th{
+    background-color:#ccccff;
+    border:1px solid #9096e8;
+    padding:10px;
+    width:20%
+}
+td{
+    border:1px solid #d59de5;
+    padding:10px;
+}
+/*959以下の場合*/
+
